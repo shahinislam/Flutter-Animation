@@ -1,3 +1,4 @@
-# ninja_trips
+# Flutter Animation
 
-A new Ninja Flutter project.
+![118785584_601152567431101_7494269094153498487_n](https://user-images.githubusercontent.com/33843231/91882901-7b437980-eca5-11ea-9e34-6bd086d6ce25.png)
+![118732052_1273075169701728_8646977796178838347_n](https://user-images.githubusercontent.com/33843231/91882926-81d1f100-eca5-11ea-9eb3-b3d155c966e0.png)
